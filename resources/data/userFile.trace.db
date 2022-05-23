@@ -1,0 +1,9 @@
+2022-05-22 16:38:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select user0_.id as id1_0_, user0_.name as name2_0_ from [*]user user0_"; expected "identifier"; SQL statement:
+select user0_.id as id1_0_, user0_.name as name2_0_ from user user0_ [42001-212]
+2022-05-22 17:54:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select user0_.id as id1_0_, user0_.name as name2_0_ from [*]user user0_"; expected "identifier"; SQL statement:
+select user0_.id as id1_0_, user0_.name as name2_0_ from user user0_ [42001-212]
+2022-05-22 17:55:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select user0_.id as id1_0_, user0_.name as name2_0_ from [*]user user0_"; expected "identifier"; SQL statement:
+select user0_.id as id1_0_, user0_.name as name2_0_ from user user0_ [42001-212]
